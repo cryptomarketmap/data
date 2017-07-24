@@ -22,13 +22,25 @@
                "tweets": {
                    "approved": [
                        { "tweetId": "872446238830080005", "isPositive": true },
-                       { "tweetId": "872118107883671552", "isPositive": true }
+                       { "tweetId": "872118107883671552", "isPositive": true },
+                       { "tweetId": "889062555863457792", "isPositive": true },
+                       { "tweetId": "871765356045533184", "isPositive": true },
+                       { "tweetId": "873148498274811909", "isPositive": true },
+                       { "tweetId": "881587945647595520", "isPositive": true },
+                       { "tweetId": "873034529933369344", "isPositive": true },
+                       { "tweetId": "872464797916434432", "isPositive": true },
+                       { "tweetId": "889524970266734592", "isPositive": true }
                    ]
                }
             },
             {
                "key": "CAN",
-               "doc_count": 817866
+               "doc_count": 817866,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "873095915850014722", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "GBR",
@@ -64,7 +76,12 @@
             },
             {
                "key": "AUS",
-               "doc_count": 29904
+               "doc_count": 29904,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "872486733354606592", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "ARG",
@@ -72,7 +89,12 @@
             },
             {
                "key": "SWE",
-               "doc_count": 23145
+               "doc_count": 23145,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "873102909180788736", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "ESP",
@@ -84,7 +106,12 @@
             },
             {
                "key": "BRA",
-               "doc_count": 14097
+               "doc_count": 14097,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "873812681064685568", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "COL",
@@ -104,7 +131,12 @@
             },
             {
                "key": "CHN",
-               "doc_count": 3478
+               "doc_count": 3478,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "872877587491680259", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "CHL",
@@ -148,7 +180,12 @@
             },
             {
                "key": "JPN",
-               "doc_count": 1371
+               "doc_count": 1371,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "857609027639013376", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "CZE",
@@ -175,7 +212,8 @@
                "doc_count": 980,
                "tweets": {
                    "approved": [
-                       { "tweetId": "870638921511776260", "isPositive": true }
+                       { "tweetId": "870638921511776260", "isPositive": true },
+                       { "tweetId": "873219977494614017", "isPositive": true }
                    ]
                }
             },
