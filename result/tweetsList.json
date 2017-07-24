@@ -18,7 +18,13 @@
          "buckets": [
             {
                "key": "USA",
-               "doc_count": 4231922
+               "doc_count": 4231922,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "872446238830080005", "isPositive": true },
+                       { "tweetId": "872118107883671552", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "CAN",
@@ -133,7 +139,12 @@
             },
             {
                "key": "SGP",
-               "doc_count": 1386
+               "doc_count": 1386,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "872472254520598528", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "JPN",
@@ -161,7 +172,12 @@
             },
             {
                "key": "RUS",
-               "doc_count": 980
+               "doc_count": 980,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "870638921511776260", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "EU",
