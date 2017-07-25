@@ -220,7 +220,7 @@
 		"github": "/bitcoin",
 		"twitter": "@bitcoin",
 		"reddit": "bitcoin",
-		"owerview": "Bitcoin is an innovative payment network and a new kind of money."
+		"overview": "Bitcoin is an innovative payment network and a new kind of money."
 	},
 	"NXT": {
 		"coinName": "Nxt",
@@ -5407,7 +5407,12 @@
 		"totalCoinsFreeFloat": "N/A",
 		"industry": "Currency",
 		"sector": "Finances",
-		"isMinable": true
+		"isLaunched": true,
+		"isMinable": true,
+		"website": "https:\/\/www.dash.org",
+		"twitter": "@dashpay",
+		"github": "dashpay",
+		"overview": "A revolutionary digital money system. Use Dash to make instant, private payments online or in-store using our secure open-source platform hosted by thousands of users around the world. At Dash’s core is a unique fully-incentivized peer-to-peer network. Miners are rewarded for securing the blockchain and masternodes are rewarded for validating, storing and serving the blockchain to users. Masternodes represent a new layer of network servers that work in highly secure clusters called quorums to provide a variety of decentralized services, like instant transactions, privacy and governance, while eliminating the threat of low-cost network attacks."
 	},
 	"LTC": {
 		"coinName": "Litecoin",
@@ -8717,7 +8722,13 @@
 		"industry": "Application Platform",
 		"sector": "Technologies",
 		"isNotMinable": true,
-		"startDate": "03/31/2015"
+		"isLaunched": true,
+		"startDate": "03/31/2015",
+		"website": "https:\/\/www.nem.io",
+		"github": "nemproject",
+		"reddit": "nem",
+		"twitter": "@NEMofficial",
+		"overview": "NEM is a blockchain designed with all new code to be secure, scalable, fast, flexible and easy to build on utilizing a simple API. NEM features on-chain multisig and multi-user contracts with push notifications, a token feature called Mosaics, and namespaces. Together with Mijin, NEM is the first public/private blockchain combination."
 	},
 	"BURST": {
 		"coinName": "BurstCoin",
@@ -9120,12 +9131,15 @@
 		"algorithm": "Ethash",
 		"proofType": "PoW",
 		"fullyPremined": "0",
-		"totalSupply": "N/A",
+		"totalSupply": "Unlimited",
 		"preMinedValue": "N/A",
 		"totalCoinsFreeFloat": "N/A",
 		"isMinable": true,
 		"industry": "Application Platform",
-		"sector": "Technologies"
+		"sector": "Technologies",
+		"isLaunched": true,
+		"overview": "Ethereum Classic is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. Ethereum Classic is a continuation of the original Ethereum blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.",
+		"website": "https:\/\/ethereumclassic.github.io"
 	},
 	"FLO": {
 		"coinName": "FlorinCoin",
@@ -11300,7 +11314,7 @@
 		"algorithm": "Ethash",
 		"proofType": "PoW",
 		"fullyPremined": "0",
-		"totalSupply": "0",
+		"totalSupply": "Unlimited",
 		"preMinedValue": "N/A",
 		"totalCoinsFreeFloat": "N/A",
 		"industry": "Application Platform",

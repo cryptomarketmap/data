@@ -29,7 +29,9 @@
                        { "tweetId": "881587945647595520", "isPositive": true },
                        { "tweetId": "873034529933369344", "isPositive": true },
                        { "tweetId": "872464797916434432", "isPositive": true },
-                       { "tweetId": "889524970266734592", "isPositive": true }
+                       { "tweetId": "889524970266734592", "isPositive": true },
+                       { "tweetId": "875041845222551552", "isPositive": true },
+                       { "tweetId": "874280570615980033", "isPositive": false }                       
                    ]
                }
             },
@@ -47,6 +49,14 @@
                "doc_count": 213736
             },
             {
+               "key": "CUB",
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "889104825480335360", "isPositive": false }
+                   ]
+                }
+            },
+            {
                "key": "MOZ",
                "doc_count": 76607
             },
@@ -60,7 +70,12 @@
             },
             {
                "key": "BEL",
-               "doc_count": 54416
+               "doc_count": 54416,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "889425321530974208", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "FRA",
@@ -79,7 +94,8 @@
                "doc_count": 29904,
                "tweets": {
                    "approved": [
-                       { "tweetId": "872486733354606592", "isPositive": true }
+                       { "tweetId": "872486733354606592", "isPositive": true },
+                       { "tweetId": "875056262244962306", "isPositive": true }
                    ]
                }
             },
@@ -174,7 +190,8 @@
                "doc_count": 1386,
                "tweets": {
                    "approved": [
-                       { "tweetId": "872472254520598528", "isPositive": true }
+                       { "tweetId": "872472254520598528", "isPositive": true },
+                       { "tweetId": "889327643979591680", "isPositive": true }
                    ]
                }
             },
@@ -239,7 +256,12 @@
             },
             {
                "key": "ARE",
-               "doc_count": 631
+               "doc_count": 631,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "889571977522024448", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "NCL",
