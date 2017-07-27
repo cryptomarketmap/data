@@ -21,6 +21,9 @@
                "doc_count": 4231922,
                "tweets": {
                    "approved": [
+                       
+                       { "tweetId": "890557809460465665", "isPositive": true },
+                       { "tweetId": "890265237324275712", "isPositive": true },
                        { "tweetId": "889950004235948032", "isPositive": true },
                        { "tweetId": "872446238830080005", "isPositive": true },
                        { "tweetId": "872118107883671552", "isPositive": true },
@@ -32,7 +35,8 @@
                        { "tweetId": "872464797916434432", "isPositive": true },
                        { "tweetId": "889524970266734592", "isPositive": true },
                        { "tweetId": "875041845222551552", "isPositive": true },
-                       { "tweetId": "874280570615980033", "isPositive": false }                   
+                       { "tweetId": "874280570615980033", "isPositive": false },
+                       { "tweetId": "876738173572960256" }                  
                    ]
                }
             },
@@ -211,7 +215,12 @@
             },
             {
                "key": "IND",
-               "doc_count": 1126
+               "doc_count": 1126,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "877983120854614018", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "ITA",
@@ -253,7 +262,12 @@
             },
             {
                "key": "KOR",
-               "doc_count": 835
+               "doc_count": 835,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "887345445458104321", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "ARE",
@@ -378,7 +392,12 @@
             },
             {
                "key": "PHL",
-               "doc_count": 144
+               "doc_count": 144,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "890497911435526145", "isPositive": false }
+                   ]
+               }
             },
             {
                "key": "SDN",
@@ -394,7 +413,12 @@
             },
             {
                "key": "ALB",
-               "doc_count": 90
+               "doc_count": 90,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "885924231753723904", "isPositive": false }
+                   ]
+               }
             },
             {
                "key": "MNE",
