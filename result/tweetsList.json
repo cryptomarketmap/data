@@ -21,22 +21,22 @@
                "doc_count": 4231922,
                "tweets": {
                    "approved": [
-                       
-                       { "tweetId": "890557809460465665", "isPositive": true },
-                       { "tweetId": "890265237324275712", "isPositive": true },
-                       { "tweetId": "889950004235948032", "isPositive": true },
-                       { "tweetId": "872446238830080005", "isPositive": true },
-                       { "tweetId": "872118107883671552", "isPositive": true },
-                       { "tweetId": "889062555863457792", "isPositive": true },
-                       { "tweetId": "871765356045533184", "isPositive": true },
-                       { "tweetId": "873148498274811909", "isPositive": true },
-                       { "tweetId": "881587945647595520", "isPositive": true },
-                       { "tweetId": "873034529933369344", "isPositive": true },
-                       { "tweetId": "872464797916434432", "isPositive": true },
-                       { "tweetId": "889524970266734592", "isPositive": true },
-                       { "tweetId": "875041845222551552", "isPositive": true },
-                       { "tweetId": "874280570615980033", "isPositive": false },
-                       { "tweetId": "876738173572960256" }                  
+                        { "tweetId": "883126074363838464", "isPositive": true },
+                        { "tweetId": "890557809460465665", "isPositive": true },
+                        { "tweetId": "890265237324275712", "isPositive": true },
+                        { "tweetId": "889950004235948032", "isPositive": true },
+                        { "tweetId": "872446238830080005", "isPositive": true },
+                        { "tweetId": "872118107883671552", "isPositive": true },
+                        { "tweetId": "889062555863457792", "isPositive": true },
+                        { "tweetId": "871765356045533184", "isPositive": true },
+                        { "tweetId": "873148498274811909", "isPositive": true },
+                        { "tweetId": "881587945647595520", "isPositive": true },
+                        { "tweetId": "873034529933369344", "isPositive": true },
+                        { "tweetId": "872464797916434432", "isPositive": true },
+                        { "tweetId": "889524970266734592", "isPositive": true },
+                        { "tweetId": "875041845222551552", "isPositive": true },
+                        { "tweetId": "874280570615980033", "isPositive": false },
+                        { "tweetId": "876738173572960256" }                  
                    ]
                }
             },
@@ -119,7 +119,12 @@
             },
             {
                "key": "ESP",
-               "doc_count": 22365
+               "doc_count": 22365,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "882988846996217858", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "HKG",
@@ -181,7 +186,12 @@
             },
             {
                "key": "POL",
-               "doc_count": 1539
+               "doc_count": 1539,
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "883369269282709504", "isPositive": false }
+                   ]
+               }
             },
             {
                "key": "UKR",
@@ -218,6 +228,9 @@
                "doc_count": 1126,
                "tweets": {
                    "approved": [
+                       { "tweetId": "877168622761803776", "isPositive": true },
+                       { "tweetId": "885333551633321984", "isPositive": true },
+                       { "tweetId": "885592574857281539", "isPositive": true },
                        { "tweetId": "877983120854614018", "isPositive": true }
                    ]
                }
