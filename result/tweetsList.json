@@ -21,6 +21,9 @@
                "doc_count": 4231922,
                "tweets": {
                    "approved": [
+                        { "tweetId": "891977065104367616", "isPositive": true },
+                        { "tweetId": "891933632037875712", "isPositive": true },
+                        { "tweetId": "890888751551049728", "isPositive": true },
                         { "tweetId": "883126074363838464", "isPositive": true },
                         { "tweetId": "890557809460465665", "isPositive": true },
                         { "tweetId": "890265237324275712", "isPositive": true },
@@ -205,6 +208,7 @@
                "doc_count": 1386,
                "tweets": {
                    "approved": [
+                       { "tweetId": "892626175268409344", "isPositive": true },
                        { "tweetId": "872472254520598528", "isPositive": true },
                        { "tweetId": "889327643979591680", "isPositive": true }
                    ]

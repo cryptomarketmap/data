@@ -222,6 +222,20 @@
 		"reddit": "bitcoin",
 		"overview": "Bitcoin is an innovative payment network and a new kind of money."
 	},
+	"BCH": {
+		"coinName": "Bitcoin Cash",
+		"algorithm": "SHA256",
+		"proofType": "PoW",
+		"totalSupply": "21000000",
+		"industry": "Currency",
+		"sector": "Finances",
+		"isMinable": true,
+		"isLaunched": true,
+		"icoDate": "08/01/2017",
+		"startDate": "08/01/2017",
+		"website": "https:\/\/www.bitcoincash.org/",
+		"overview": "Bitcoin Cash brings sound money to the world.  Merchants and users are empowered with low fees and reliable confirmations. The future shines brightly with unrestricted growth, global adoption, permissionless innovation, and decentralized development. Hard fork of original Bitcoin"
+	},
 	"NXT": {
 		"coinName": "Nxt",
 		"algorithm": "PoS",
