@@ -81,6 +81,7 @@
                "doc_count": 54416,
                "tweets": {
                    "approved": [
+                       { "tweetId": "894468589654339584", "isPositive": true },
                        { "tweetId": "889425321530974208", "isPositive": true }
                    ]
                }
@@ -282,6 +283,7 @@
                "doc_count": 835,
                "tweets": {
                    "approved": [
+                       { "tweetId": "892671680149061632", "isPositive": true },
                        { "tweetId": "887345445458104321", "isPositive": true }
                    ]
                }
