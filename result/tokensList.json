@@ -338,7 +338,8 @@
 		"industry": "Currency",
 		"sector": "Finances",
 		"isMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"website": "https:\/\/bitcoin.org/en/",
 		"github": "/bitcoin",
 		"twitter": "@bitcoin",
@@ -358,7 +359,8 @@
 		"industry": "Currency",
 		"sector": "Finances",
 		"isMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"icoDate": "08/01/2017",
 		"startDate": "08/01/2017",
 		"website": "https:\/\/www.bitcoincash.org/",
@@ -3487,7 +3489,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": null,
+		"reddit": null,
+		"status": "Live",
+		"statusUpdate": "2017-08-08"
 	},
 	"MARV": {
 		"coinName": "Marvelous",
@@ -3856,7 +3862,8 @@
 		"icoDate": "28/10/2016",
 		"startDate": "28/10/2016",
 		"isMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"twitter": "@zcashco",
 		"website": "https:\/\/z.cash/",
 		"overview": "Zcash is the first open, permissionless cryptocurrency that can fully protect the privacy of transactions using zero-knowledge cryptography.",
@@ -3958,7 +3965,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": null,
+		"reddit": "SingularDTV",
+		"status": "Concept",
+		"statusUpdate": "2017-05-21"
 	},
 	"XAUR": {
 		"coinName": "Xaurum",
@@ -4166,7 +4177,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": null,
+		"reddit": "ICONOMI",
+		"status": "Working Prototype",
+		"statusUpdate": "2017-05-21"
 	},
 	"EXB": {
 		"coinName": "ExaByte (EXB)",
@@ -4197,7 +4212,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "WingsDao",
+		"reddit": "WingsDAO",
+		"status": "Live",
+		"statusUpdate": "2017-07-22"
 	},
 	"CDX": {
 		"coinName": "Cryptodex",
@@ -6998,7 +7017,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "golemfactory/golem",
+		"reddit": "GolemProject/",
+		"status": "Working Prototype",
+		"statusUpdate": "2017-07-19"
 	},
 	"PEN": {
 		"coinName": "PenCoin",
@@ -7708,7 +7731,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "AugurProject",
+		"reddit": "augur",
+		"status": "Working Prototype",
+		"statusUpdate": "2016-09-20"
 	},
 	"MTLM3": {
 		"coinName": "Metal Music v3",
@@ -8741,7 +8768,8 @@
 		"preMinedValue": null,
 		"industry": "Currency",
 		"sector": "Finances",
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"isMinable": true,
 		"website": "http:\/\/dash.org",
 		"twitter": "@Dashpay",
@@ -8763,7 +8791,8 @@
 		"industry": "Currency",
 		"sector": "Finances",
 		"isMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"website": "https:\/\/litecoin.com",
 		"reddit": "litecoin",
 		"twitter": "@litecoin",
@@ -10157,7 +10186,11 @@
 		"proofType": "PoW",
 		"fullyPremined": false,
 		"totalSupply": "281600000",
-		"preMinedValue": null
+		"preMinedValue": null,
+		"github": "bancorprotocol/contracts",
+		"reddit": "Bancor/",
+		"status": "Live",
+		"statusUpdate": "2017-05-22"
 	},
 	"BOST": {
 		"coinName": "BoostCoin",
@@ -11597,11 +11630,15 @@
 		"sector": "Services",
 		"icoDate": "16/02/2017",
 		"twitter": "@melonport",
-		"website": " https://melonport.com/",
+		"website": " https:\/\/melonport.com/",
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": "60 sec",
-		"blockReward": null
+		"blockReward": null,
+		"github": "melonproject",
+		"reddit": "melonproject",
+		"status": "Work In Progress",
+		"statusUpdate": "2017-05-20"
 	},
 	"FRST": {
 		"coinName": "FirstCoin",
@@ -11650,7 +11687,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": null,
+		"reddit": "TenX/",
+		"status": "Work in Progress",
+		"statusUpdate": "2017-06-29"
 	},
 	"ORO": {
 		"coinName": "OroCoin",
@@ -13772,7 +13813,8 @@
 		"industry": "Interbank Settlement",
 		"sector": "Finances",
 		"isNotMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"website": "https:\/\/ripple.com/",
 		"overview": "Ripple’s distributed financial technology enables banks to send real-time international payments across networks.",
 		"icoDate": "02/02/2013",
@@ -13885,7 +13927,8 @@
 		"industry": "Currency",
 		"sector": "Finances",
 		"isMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"icoDate": "02/06/2014",
 		"startDate": "02/06/2014",
 		"website": "http:\/\/getmonero.org/",
@@ -13961,7 +14004,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "swarmcity",
+		"reddit": "SwarmCity",
+		"status": "Working Prototype",
+		"statusUpdate": "2017-05-21"
 	},
 	"PASL": {
 		"coinName": "Pascal Lite",
@@ -14117,7 +14164,8 @@
 		"industry": "Application Platform",
 		"sector": "Technologies",
 		"isNotMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"icoDate": "31/03/2015",
 		"startDate": "03/31/2015",
 		"website": "http:\/\/www.nem.io/",
@@ -14436,7 +14484,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": "-",
 		"blockTime": null,
-		"blockReward": 0.1299279025671157
+		"blockReward": 0.1299279025671157,
+		"github": null,
+		"reddit": null,
+		"status": "Concept",
+		"statusUpdate": "2015-06-03"
 	},
 	"XSI": {
 		"coinName": "Stability Shares",
@@ -14776,7 +14828,8 @@
 		"isMinable": true,
 		"industry": "Application Platform",
 		"sector": "Technologies",
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"overview": "Ethereum Classic is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference. Ethereum Classic is a continuation of the original Ethereum blockchain - the classic version preserving untampered history; free from external interference and subjective tampering of transactions.",
 		"website": "http:\/\/www.ethereumclassic.org",
 		"icoDate": "23/07/2016",
@@ -16224,7 +16277,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "EdgelessCasino/",
+		"reddit": "Edgeless/",
+		"status": "Concept",
+		"statusUpdate": "2017-05-21"
 	},
 	"B@": {
 		"coinName": "BankCoin",
@@ -17173,7 +17230,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": null,
+		"reddit": "iexec/",
+		"status": "Concept",
+		"statusUpdate": "2017-05-09"
 	},
 	"ATMS": {
 		"coinName": "Atmos",
@@ -17515,7 +17576,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "ConsenSys/gnosis-contracts",
+		"reddit": "gnosisPM/",
+		"status": "Live",
+		"statusUpdate": "2017-01-26"
 	},
 	"LGD": {
 		"coinName": "Legends Cryptocurrency",
@@ -17630,7 +17695,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "lunyr",
+		"reddit": "Lunyr/",
+		"status": "Work In Progress",
+		"statusUpdate": "2017-05-20"
 	},
 	"RAIN": {
 		"coinName": "Condensate",
@@ -17745,7 +17814,7 @@
 		"blockReward": null
 	},
 	"TKN": {
-		"coinName": "TokenCard  ",
+		"coinName": "TokenCard",
 		"algorithm": null,
 		"proofType": null,
 		"fullyPremined": false,
@@ -17758,7 +17827,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "MonolithDAO/token",
+		"reddit": null,
+		"status": "Working Prototype",
+		"statusUpdate": "2016-10-06"
 	},
 	"BTCS": {
 		"coinName": "Bitcoin Scrypt",
@@ -18313,7 +18386,8 @@
 		"industry": "Application Platform",
 		"sector": "Technologies",
 		"isMinable": true,
-		"isLaunched": true,
+		"status": "Live",
+		"statusUpdate": "08/11/2017",
 		"reddit": "ethereum",
 		"website": "https:\/\/www.ethereum.org/",
 		"overview": "Ethereum is a  decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, censorship, fraud or third party interference.",
@@ -18524,7 +18598,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "aragon",
+		"reddit": "aragonproject",
+		"status": "Working Prototype",
+		"statusUpdate": "2017-05-04"
 	},
 	"PUPA": {
 		"coinName": "PupaCoin",
@@ -18739,7 +18817,11 @@
 		"difficultyAdjustment": "1 block",
 		"blockRewardReduction": "-",
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": "minereum/Minereum/blob/master/minereum.sol",
+		"reddit": null,
+		"status": "Live",
+		"statusUpdate": "2017-05-21"
 	},
 	"SONG": {
 		"coinName": "Song Coin",
@@ -19036,7 +19118,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": null
+		"blockReward": null,
+		"github": null,
+		"reddit": "etheroll",
+		"status": "Live",
+		"statusUpdate": "2016-03-01"
 	},
 	"BAT": {
 		"coinName": "Basic Attention Token",
@@ -19213,7 +19299,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"MAD": {
 		"coinName": "SatoshiMadness",
@@ -19226,7 +19312,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DYN": {
 		"coinName": "Dynamic",
@@ -19382,7 +19468,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"XEL": {
 		"coinName": "Elastic",
@@ -19408,7 +19494,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": null,
+		"reddit": "FunfairTech",
+		"status": "Demo",
+		"statusUpdate": "2017-06-20"
 	},
 	"FUNC": {
 		"coinName": "FunCoin",
@@ -19447,7 +19537,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"QRL": {
 		"coinName": "Quantum Resistant Ledger",
@@ -19486,7 +19576,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": null,
+		"reddit": "OpenANX",
+		"status": "Work in Progress",
+		"statusUpdate": "2017-06-26"
 	},
 	"FND": {
 		"coinName": "FundRequest",
@@ -19499,7 +19593,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "FundRequest",
+		"reddit": "https:\/\/www.reddit.com/u/FundRequest_io",
+		"status": "Work In Progress",
+		"statusUpdate": "2017-06-21"
 	},
 	"XTZ": {
 		"coinName": "Tezos",
@@ -19512,7 +19610,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"CFI": {
 		"coinName": "Cofound.it",
@@ -19525,7 +19623,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": 0
+		"blockReward": 0,
+		"github": null,
+		"reddit": "cofoundit",
+		"status": "Concept",
+		"statusUpdate": "2017-06-19"
 	},
 	"SNM": {
 		"coinName": "SONM",
@@ -19538,7 +19640,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": 0
+		"blockReward": 0,
+		"github": "sonm-io",
+		"reddit": null,
+		"status": "Work in Progress",
+		"statusUpdate": "2017-06-29"
 	},
 	"DCY": {
 		"coinName": "Dinastycoin",
@@ -19551,7 +19657,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"XRL": {
 		"coinName": "Rialto.AI",
@@ -19564,7 +19670,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DNR": {
 		"coinName": "Denarius",
@@ -19603,7 +19709,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"BTPL": {
 		"coinName": "Bitcoin Planet",
@@ -19642,7 +19748,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"BRIT": {
 		"coinName": "BritCoin",
@@ -19668,7 +19774,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SOCC": {
 		"coinName": "SocialCoin",
@@ -19694,7 +19800,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"XUC": {
 		"coinName": "Exchange Union",
@@ -19707,7 +19813,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"PING": {
 		"coinName": "CryptoPing",
@@ -19720,7 +19826,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ACT": {
 		"coinName": "ACT",
@@ -19733,7 +19839,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"PRO": {
 		"coinName": "Propy",
@@ -19746,7 +19852,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SYC": {
 		"coinName": "SynchroCoin",
@@ -19759,7 +19865,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"CDT": {
 		"coinName": "CoinDash",
@@ -19772,7 +19878,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"NMR": {
 		"coinName": "Numerai",
@@ -19785,7 +19891,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "numerai",
+		"reddit": null,
+		"status": "Live",
+		"statusUpdate": "2017-07-06"
 	},
 	"PST": {
 		"coinName": "Presearch",
@@ -19798,7 +19908,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"COSS": {
 		"coinName": "COSS",
@@ -19811,7 +19921,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"STORM": {
 		"coinName": "Storm",
@@ -19824,7 +19934,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"NPX": {
 		"coinName": "Napoleon X",
@@ -19837,7 +19947,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"UNIKRN": {
 		"coinName": "UnikoinGold",
@@ -19850,7 +19960,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SCORE": {
 		"coinName": "Scorecoin",
@@ -19889,7 +19999,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": 0
+		"blockReward": 0,
+		"github": "Storj",
+		"reddit": "storj",
+		"status": "Live",
+		"statusUpdate": "2017-05-24"
 	},
 	"ARC*": {
 		"coinName": "ArcticCoin",
@@ -19902,7 +20016,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SAND": {
 		"coinName": "BeachCoin",
@@ -19915,7 +20029,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"BOG": {
 		"coinName": "Bogcoin",
@@ -19928,7 +20042,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"MASS": {
 		"coinName": "Mass.Cloud",
@@ -19954,7 +20068,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"IML": {
 		"coinName": "IMMLA",
@@ -19967,7 +20081,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"CMP": {
 		"coinName": "Compcoin",
@@ -19980,7 +20094,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"4CHN": {
 		"coinName": "ChanCoin",
@@ -19993,7 +20107,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"AVT": {
 		"coinName": "AventCoin",
@@ -20006,7 +20120,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"OTX": {
 		"coinName": "Octanox",
@@ -20032,7 +20146,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"UET": {
 		"coinName": "Useless Ethereum Token",
@@ -20084,7 +20198,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": null,
+		"reddit": "indorse",
+		"status": "Concept",
+		"statusUpdate": "2017-06-18"
 	},
 	"CVC": {
 		"coinName": "Civic",
@@ -20097,7 +20215,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DMARKET": {
 		"coinName": "DMarket",
@@ -20110,7 +20228,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DAS": {
 		"coinName": "DAS",
@@ -20136,7 +20254,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "0xProject",
+		"reddit": null,
+		"status": "Work In Progress",
+		"statusUpdate": "2017-06-27"
 	},
 	"8BT": {
 		"coinName": "8 Circuit Studios",
@@ -20149,7 +20271,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"MYB": {
 		"coinName": "MyBit",
@@ -20162,7 +20284,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"AHT": {
 		"coinName": "Bowhead Health",
@@ -20175,7 +20297,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"STU": {
 		"coinName": "BitJob",
@@ -20188,7 +20310,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"MIV": {
 		"coinName": "MakeItViral",
@@ -20201,7 +20323,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"NLC2": {
 		"coinName": "NoLimitCoin",
@@ -20214,7 +20336,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ADST": {
 		"coinName": "Adshares",
@@ -20227,7 +20349,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"BCAT": {
 		"coinName": "BlockCAT",
@@ -20240,7 +20362,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": null,
+		"reddit": null,
+		"status": "Work in Progress",
+		"statusUpdate": "2017-06-26"
 	},
 	"XCJ": {
 		"coinName": "CoinJob",
@@ -20253,7 +20379,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ADL": {
 		"coinName": "Adelphoi",
@@ -20266,7 +20392,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ROOTS": {
 		"coinName": "RootProject",
@@ -20279,7 +20405,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"HRB": {
 		"coinName": "Harbour DAO",
@@ -20287,12 +20413,16 @@
 		"proofType": null,
 		"icoDate": "01/01/0001",
 		"twitter": "@HarbourDao",
-		"website": "https:\\/\\/harbour.tokenate.io",
+		"website": "https:\/\/harbour.tokenate.io",
 		"totalSupply": null,
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "Tokenate/Harbour",
+		"reddit": "HarbourDao/",
+		"status": "Work in Progress",
+		"statusUpdate": "2017-06-29"
 	},
 	"RVT": {
 		"coinName": "Rivetz",
@@ -20305,7 +20435,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ATB": {
 		"coinName": "ATB coin",
@@ -20318,7 +20448,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"RKC": {
 		"coinName": "Royal Kingdom Coin",
@@ -20331,7 +20461,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"CFT": {
 		"coinName": "CryptoForecast",
@@ -20344,7 +20474,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"CVCOIN": {
 		"coinName": "Crypviser",
@@ -20357,7 +20487,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DNA": {
 		"coinName": "Encrypgen",
@@ -20370,7 +20500,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DRP": {
 		"coinName": "DCORP",
@@ -20383,7 +20513,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"GGS": {
 		"coinName": "Gilgam",
@@ -20396,7 +20526,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"LINDA": {
 		"coinName": "Linda",
@@ -20409,7 +20539,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SPN": {
 		"coinName": "Spoon",
@@ -20461,7 +20591,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SNK": {
 		"coinName": "Sosnovkino",
@@ -20474,7 +20604,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DIM": {
 		"coinName": "DIMCOIN",
@@ -20487,7 +20617,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"GUNS": {
 		"coinName": "GeoFunders",
@@ -20526,7 +20656,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"MTL": {
 		"coinName": "Metal",
@@ -20552,7 +20682,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"NVST": {
 		"coinName": "NVO",
@@ -20565,7 +20695,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": 0
+		"blockReward": 0,
+		"github": null,
+		"reddit": null,
+		"status": "Work In Progress",
+		"statusUpdate": "2017-06-21"
 	},
 	"OMG": {
 		"coinName": "OmiseGo",
@@ -20594,7 +20728,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SNT": {
 		"coinName": "Status Network Token",
@@ -20611,7 +20745,10 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": 0
+		"blockReward": 0,
+		"reddit": "statusim",
+		"status": "Working Prototype",
+		"statusUpdate": "2017-07-11"
 	},
 	"PLBT": {
 		"coinName": "Polybius",
@@ -20637,7 +20774,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"PPT": {
 		"coinName": "Populous",
@@ -20666,7 +20803,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SNC": {
 		"coinName": "SunContract",
@@ -20692,7 +20829,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": 0
+		"blockReward": 0,
+		"github": "voiseit",
+		"reddit": null,
+		"status": "Concept",
+		"statusUpdate": "2017-05-24"
 	},
 	"WGR": {
 		"coinName": "Wagerr",
@@ -20718,7 +20859,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"TFL": {
 		"coinName": "True Flip Lottery",
@@ -20731,7 +20872,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ADX": {
 		"coinName": "AdEx",
@@ -20757,7 +20898,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"TNT": {
 		"coinName": "Tierion",
@@ -20770,7 +20911,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"WTT": {
 		"coinName": "Giga Watt",
@@ -20783,7 +20924,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"FYN": {
 		"coinName": "FundYourselfNow",
@@ -20796,7 +20937,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"IXT": {
 		"coinName": "InsureX",
@@ -20809,7 +20950,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DNT": {
 		"coinName": "district0x",
@@ -20822,7 +20963,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "district0x",
+		"reddit": null,
+		"status": "Work In Progress",
+		"statusUpdate": "2017-07-13"
 	},
 	"SAN": {
 		"coinName": "Santiment",
@@ -20835,7 +20980,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "santiment",
+		"reddit": null,
+		"status": "Work In Progress",
+		"statusUpdate": "2017-05-09"
 	},
 	"MBI": {
 		"coinName": "Monster Byte Inc",
@@ -20848,7 +20997,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"TIX": {
 		"coinName": "Blocktix",
@@ -20861,7 +21010,11 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null,
+		"github": "blocktix",
+		"reddit": "blocktix",
+		"status": "Work In Progress",
+		"statusUpdate": "2017-05-09"
 	},
 	"FEED": {
 		"coinName": "InvestFeed",
@@ -20874,7 +21027,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"DDF": {
 		"coinName": "Digital Developers Fund",
@@ -20887,7 +21040,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"SUR": {
 		"coinName": "Suretly",
@@ -20900,7 +21053,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"TRIBE": {
 		"coinName": "TribeToken",
@@ -20913,7 +21066,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"HVN": {
 		"coinName": "Hive",
@@ -20926,7 +21079,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"CABS": {
 		"coinName": "CryptoABS",
@@ -20939,7 +21092,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"OPT": {
 		"coinName": "Opus",
@@ -20952,7 +21105,7 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	},
 	"ZNT": {
 		"coinName": "OpenZen",
@@ -20965,6 +21118,6 @@
 		"difficultyAdjustment": null,
 		"blockRewardReduction": null,
 		"blockTime": null,
-		"blockReward": ""
+		"blockReward": null
 	}
 }
