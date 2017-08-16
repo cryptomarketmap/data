@@ -202,7 +202,9 @@
                "key": "UKR",
                "doc_count": 1444,
                "tweets": {
-                   "approved": []
+                   "approved": [
+                        { "tweetId": "897162271423639554", "isPositive": true }
+                   ]
                }
             },
             {
