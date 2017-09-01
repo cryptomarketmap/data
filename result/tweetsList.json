@@ -18,9 +18,12 @@
          "buckets": [
             {
                "key": "USA",
-               "doc_count": 4231922,
                "tweets": {
                    "approved": [
+                        { "tweetId": "902254873227534336", "isPositive": false },
+                        { "tweetId": "900729060107718658", "isPositive": false },
+                        { "tweetId": "902108839759278081", "isPositive": false },
+                        { "tweetId": "899617485661536256", "isPositive": true },
                         { "tweetId": "891977065104367616", "isPositive": true },
                         { "tweetId": "891933632037875712", "isPositive": true },
                         { "tweetId": "890888751551049728", "isPositive": true },
@@ -45,16 +48,15 @@
             },
             {
                "key": "CAN",
-               "doc_count": 817866,
                "tweets": {
                    "approved": [
+                       { "tweetId": "900751659063750658", "isPositive": true },
                        { "tweetId": "873095915850014722", "isPositive": true }
                    ]
                }
             },
             {
-               "key": "GBR",
-               "doc_count": 213736
+               "key": "GBR"
             },
             {
                "key": "CUB",
@@ -65,20 +67,16 @@
                 }
             },
             {
-               "key": "MOZ",
-               "doc_count": 76607
+               "key": "MOZ"
             },
             {
-               "key": "TUR",
-               "doc_count": 72724
+               "key": "TUR"
             },
             {
-               "key": "KEN",
-               "doc_count": 64413
+               "key": "KEN"
             },
             {
                "key": "BEL",
-               "doc_count": 54416,
                "tweets": {
                    "approved": [
                        { "tweetId": "894468589654339584", "isPositive": true },
@@ -87,20 +85,21 @@
                }
             },
             {
-               "key": "FRA",
-               "doc_count": 50738
+               "key": "FRA"
             },
             {
-               "key": "NLD",
-               "doc_count": 42092
+               "key": "NLD"
             },
             {
                "key": "ZAF",
-               "doc_count": 33714
+               "tweets": {
+                    "approved": [
+                        { "tweetId": "900281924064878593", "isPositive": true }
+                    ]
+                }
             },
             {
                "key": "AUS",
-               "doc_count": 29904,
                "tweets": {
                    "approved": [
                        { "tweetId": "898124012324311040", "isPositive": true },
@@ -111,12 +110,10 @@
                }
             },
             {
-               "key": "ARG",
-               "doc_count": 23539
+               "key": "ARG"
             },
             {
                "key": "SWE",
-               "doc_count": 23145,
                "tweets": {
                    "approved": [
                        { "tweetId": "873102909180788736", "isPositive": true }
@@ -124,8 +121,15 @@
                }
             },
             {
+               "key": "EST",
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "902230399925067778", "isPositive": true }
+                   ]
+               }
+            },
+            {
                "key": "ESP",
-               "doc_count": 22365,
                "tweets": {
                    "approved": [
                        { "tweetId": "882988846996217858", "isPositive": true }
@@ -133,12 +137,10 @@
                }
             },
             {
-               "key": "HKG",
-               "doc_count": 14383
+               "key": "HKG"
             },
             {
                "key": "BRA",
-               "doc_count": 14097,
                "tweets": {
                    "approved": [
                        { "tweetId": "873812681064685568", "isPositive": true }
@@ -146,53 +148,50 @@
                }
             },
             {
-               "key": "COL",
-               "doc_count": 13908
+               "key": "COL"
             },
             {
-               "key": "DEU",
-               "doc_count": 5985
+               "key": "DEU"
             },
             {
                "key": "MEX",
-               "doc_count": 5396
-            },
-            {
-               "key": "TTO",
-               "doc_count": 5138
-            },
-            {
-               "key": "CHN",
-               "doc_count": 3478,
                "tweets": {
                    "approved": [
-                       { "tweetId": "872877587491680259", "isPositive": true }
+                       { "tweetId": "902161842583298049", "isPositive": true }
                    ]
                }
             },
             {
-               "key": "CHL",
-               "doc_count": 3450
+               "key": "TTO"
             },
             {
-               "key": "KAZ",
-               "doc_count": 2666
+               "key": "CHN",
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "902441307888549888", "isPositive": false },
+                       { "tweetId": "901109390396317696", "isPositive": true },
+                       { "tweetId": "872877587491680259", "isPositive": true },
+                       { "tweetId": "902566081956421633", "isPositive": true }
+                   ]
+               }
             },
             {
-               "key": "PER",
-               "doc_count": 2005
+               "key": "CHL"
             },
             {
-               "key": "IRN",
-               "doc_count": 1586
+               "key": "KAZ"
             },
             {
-               "key": "BGR",
-               "doc_count": 1552
+               "key": "PER"
+            },
+            {
+               "key": "IRN"
+            },
+            {
+               "key": "BGR"
             },
             {
                "key": "POL",
-               "doc_count": 1539,
                "tweets": {
                    "approved": [
                        { "tweetId": "883369269282709504", "isPositive": false }
@@ -201,7 +200,6 @@
             },
             {
                "key": "UKR",
-               "doc_count": 1444,
                "tweets": {
                    "approved": [
                         { "tweetId": "897162271423639554", "isPositive": true }
@@ -210,7 +208,6 @@
             },
             {
                "key": "SGP",
-               "doc_count": 1386,
                "tweets": {
                    "approved": [
                        { "tweetId": "892626175268409344", "isPositive": true },
@@ -221,7 +218,6 @@
             },
             {
                "key": "JPN",
-               "doc_count": 1371,
                "tweets": {
                    "approved": [
                        { "tweetId": "857609027639013376", "isPositive": true }
@@ -229,12 +225,10 @@
                }
             },
             {
-               "key": "CZE",
-               "doc_count": 1295
+               "key": "CZE"
             },
             {
                "key": "IND",
-               "doc_count": 1126,
                "tweets": {
                    "approved": [
                        { "tweetId": "895027281760055297", "isPositive": true },
@@ -246,20 +240,16 @@
                }
             },
             {
-               "key": "ITA",
-               "doc_count": 1077
+               "key": "ITA"
             },
             {
-               "key": "JAM",
-               "doc_count": 1014
+               "key": "JAM"
             },
             {
-               "key": "ROU",
-               "doc_count": 1011
+               "key": "ROU"
             },
             {
                "key": "RUS",
-               "doc_count": 980,
                "tweets": {
                    "approved": [
                        { "tweetId": "870638921511776260", "isPositive": true },
@@ -268,24 +258,24 @@
                }
             },
             {
-               "key": "EU",
-               "doc_count": 979
+               "key": "EU"
             },
             {
-               "key": "SRB",
-               "doc_count": 957
+               "key": "SRB"
             },
             {
-               "key": "ECU",
-               "doc_count": 851
+               "key": "ECU"
             },
             {
                "key": "ISR",
-               "doc_count": 848
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "902969596512268288", "isPositive": true }
+                   ]
+               }
             },
             {
                "key": "KOR",
-               "doc_count": 835,
                "tweets": {
                    "approved": [
                        { "tweetId": "892671680149061632", "isPositive": true },
@@ -295,7 +285,6 @@
             },
             {
                "key": "ARE",
-               "doc_count": 631,
                "tweets": {
                    "approved": [
                        { "tweetId": "889571977522024448", "isPositive": true }
@@ -303,141 +292,114 @@
                }
             },
             {
-               "key": "NCL",
-               "doc_count": 598
+               "key": "NCL"
             },
             {
-               "key": "PRT",
-               "doc_count": 487
+               "key": "PRT"
             },
             {
-               "key": "GRC",
-               "doc_count": 423
+               "key": "GRC"
             },
             {
-               "key": "URY",
-               "doc_count": 416
+               "key": "URY"
             },
             {
-               "key": "BLR",
-               "doc_count": 392
+               "key": "BLR"
             },
             {
-               "key": "HUN",
-               "doc_count": 368
+               "key": "HUN"
             },
             {
-               "key": "HRV",
-               "doc_count": 355
+               "key": "HRV"
             },
             {
-               "key": "GTM",
-               "doc_count": 312
+               "key": "GTM"
             },
             {
-               "key": "BOL",
-               "doc_count": 308
+               "key": "BOL"
             },
             {
-               "key": "THA",
-               "doc_count": 294
+               "key": "THA"
             },
             {
-               "key": "CHE",
-               "doc_count": 291
+               "key": "CHE"
             },
             {
-               "key": "AUT",
-               "doc_count": 284
+               "key": "AUT"
             },
             {
-               "key": "MDA",
-               "doc_count": 249
+               "key": "MDA"
             },
             {
                "key": "VNM",
-               "doc_count": 236
+               "tweets": {
+                    "approved": [
+                        { "tweetId": "901067293702184961", "isPositive": true }
+                    ]
+                }
             },
             {
-               "key": "VEN",
-               "doc_count": 228
+               "key": "VEN"
             },
             {
-               "key": "NGA",
-               "doc_count": 216
+               "key": "NGA"
             },
             {
-               "key": "IRL",
-               "doc_count": 190
+               "key": "IRL"
             },
             {
-               "key": "PSE",
-               "doc_count": 188
+               "key": "PSE"
             },
             {
-               "key": "NOR",
-               "doc_count": 184
+               "key": "NOR"
             },
             {
-               "key": "AFG",
-               "doc_count": 181
+               "key": "AFG"
             },
             {
-               "key": "LVA",
-               "doc_count": 177
+               "key": "LVA"
             },
             {
-               "key": "CRI",
-               "doc_count": 175
+               "key": "CRI"
             },
             {
-               "key": "MAR",
-               "doc_count": 172
+               "key": "MAR"
             },
             {
-               "key": "SEN",
-               "doc_count": 162
+               "key": "SEN"
             },
             {
-               "key": "RWA",
-               "doc_count": 156
+               "key": "RWA"
             },
             {
-               "key": "GEO",
-               "doc_count": 151
+               "key": "GEO"
             },
             {
-               "key": "KGZ",
-               "doc_count": 149
+               "key": "KGZ"
             },
             {
-               "key": "BWA",
-               "doc_count": 146
+               "key": "BWA"
             },
             {
                "key": "PHL",
-               "doc_count": 144,
                "tweets": {
                    "approved": [
+                       { "tweetId": "899557068696297472", "isPositive": true },
                        { "tweetId": "890497911435526145", "isPositive": false }
                    ]
                }
             },
             {
-               "key": "SDN",
-               "doc_count": 137
+               "key": "SDN"
             },
             {
-               "key": "GLP",
-               "doc_count": 98
+               "key": "GLP"
             },
             {
-               "key": "DOM",
-               "doc_count": 93
+               "key": "DOM"
             },
             {
                "key": "ALB",
-               "doc_count": 90,
                "tweets": {
                    "approved": [
                        { "tweetId": "885924231753723904", "isPositive": false }
@@ -445,56 +407,43 @@
                }
             },
             {
-               "key": "MNE",
-               "doc_count": 88
+               "key": "MNE"
             },
             {
-               "key": "ARM",
-               "doc_count": 83
+               "key": "ARM"
             },
             {
-               "key": "DNK",
-               "doc_count": 80
+               "key": "DNK"
             },
             {
-               "key": "UZB",
-               "doc_count": 69
+               "key": "UZB"
             },
             {
-               "key": "NZL",
-               "doc_count": 56
+               "key": "NZL"
             },
             {
-               "key": "LBN",
-               "doc_count": 52
+               "key": "LBN"
             },
             {
-               "key": "TUN",
-               "doc_count": 28
+               "key": "TUN"
             },
             {
-               "key": "GHA",
-               "doc_count": 27
+               "key": "GHA"
             },
             {
-               "key": "ZWE",
-               "doc_count": 24
+               "key": "ZWE"
             },
             {
-               "key": "DZA",
-               "doc_count": 23
+               "key": "DZA"
             },
             {
-               "key": "JEY",
-               "doc_count": 18
+               "key": "JEY"
             },
             {
-               "key": "TWN",
-               "doc_count": 12
+               "key": "TWN"
             },
             {
-               "key": "GRD",
-               "doc_count": 7
+               "key": "GRD"
             }
          ]
       }
