@@ -20,6 +20,8 @@
                "key": "USA",
                "tweets": {
                    "approved": [
+                        { "tweetId": "905853555604692992", "isPositive": true },
+                        { "tweetId": "906182398987177984", "isPositive": true },
                         { "tweetId": "902254873227534336", "isPositive": false },
                         { "tweetId": "900729060107718658", "isPositive": false },
                         { "tweetId": "902108839759278081", "isPositive": false },
@@ -50,6 +52,7 @@
                "key": "CAN",
                "tweets": {
                    "approved": [
+                       { "tweetId": "905340493432803328", "isPositive": true },
                        { "tweetId": "900751659063750658", "isPositive": true },
                        { "tweetId": "873095915850014722", "isPositive": true }
                    ]
@@ -168,6 +171,8 @@
                "key": "CHN",
                "tweets": {
                    "approved": [
+                       { "tweetId": "905643238555394049", "isPositive": false },
+                       { "tweetId": "904667379153727488", "isPositive": false },
                        { "tweetId": "902441307888549888", "isPositive": false },
                        { "tweetId": "901109390396317696", "isPositive": true },
                        { "tweetId": "872877587491680259", "isPositive": true },
@@ -335,6 +340,14 @@
                "tweets": {
                     "approved": [
                         { "tweetId": "901067293702184961", "isPositive": true }
+                    ]
+                }
+            },
+            {
+               "key": "MYS",
+               "tweets": {
+                    "approved": [
+                        { "tweetId": "906125910008631296", "isPositive": false }
                     ]
                 }
             },
