@@ -60,7 +60,12 @@
                }
             },
             {
-               "key": "GBR"
+               "key": "GBR",
+               "tweets": {
+                    "approved": [
+                        { "tweetId": "907567680776962048", "isPositive": false }
+                    ]
+                }
             },
             {
                "key": "CUB",
@@ -294,7 +299,16 @@
                "key": "ARE",
                "tweets": {
                    "approved": [
+                       { "tweetId": "908032921658896387", "isPositive": false },
                        { "tweetId": "889571977522024448", "isPositive": true }
+                   ]
+               }
+            },
+            {
+               "key": "NAM",
+               "tweets": {
+                   "approved": [
+                       { "tweetId": "908254254674202624", "isPositive": false }
                    ]
                }
             },
@@ -329,7 +343,12 @@
                "key": "THA"
             },
             {
-               "key": "CHE"
+               "key": "CHE",
+               "tweets": {
+                    "approved": [
+                        { "tweetId": "907508207425392640", "isPositive": true }
+                    ]
+                }
             },
             {
                "key": "AUT"
