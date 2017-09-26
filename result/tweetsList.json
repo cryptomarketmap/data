@@ -20,6 +20,7 @@
                "key": "USA",
                "tweets": {
                    "approved": [
+                        { "tweetId": "912500530022420480", "isPositive": true },
                         { "tweetId": "905853555604692992", "isPositive": true },
                         { "tweetId": "906182398987177984", "isPositive": true },
                         { "tweetId": "902254873227534336", "isPositive": false },
@@ -88,6 +89,7 @@
                "key": "BEL",
                "tweets": {
                    "approved": [
+                       { "tweetId": "912626717495316480", "isPositive": false },
                        { "tweetId": "910791584060465152", "isPositive": true },
                        { "tweetId": "894468589654339584", "isPositive": true },
                        { "tweetId": "889425321530974208", "isPositive": true }
@@ -219,6 +221,7 @@
                "key": "UKR",
                "tweets": {
                    "approved": [
+                        { "tweetId": "912434756163375105", "isPositive": false },
                         { "tweetId": "897162271423639554", "isPositive": true }
                    ]
                }
