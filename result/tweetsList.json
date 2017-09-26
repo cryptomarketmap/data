@@ -88,6 +88,7 @@
                "key": "BEL",
                "tweets": {
                    "approved": [
+                       { "tweetId": "910791584060465152", "isPositive": true },
                        { "tweetId": "894468589654339584", "isPositive": true },
                        { "tweetId": "889425321530974208", "isPositive": true }
                    ]
@@ -111,6 +112,8 @@
                "key": "AUS",
                "tweets": {
                    "approved": [
+                       { "tweetId": "910520749819154432", "isPositive": true },
+                       { "tweetId": "909817226617917442", "isPositive": true },
                        { "tweetId": "898124012324311040", "isPositive": true },
                        { "tweetId": "894846454531063808", "isPositive": true },
                        { "tweetId": "872486733354606592", "isPositive": true },
@@ -166,6 +169,7 @@
                "key": "MEX",
                "tweets": {
                    "approved": [
+                       { "tweetId": "910172235842846720", "isPositive": true },
                        { "tweetId": "902161842583298049", "isPositive": true }
                    ]
                }
@@ -177,6 +181,7 @@
                "key": "CHN",
                "tweets": {
                    "approved": [
+                       { "tweetId": "910504371745624064", "isPositive": true },
                        { "tweetId": "907213030752231424", "isPositive": false },
                        { "tweetId": "905643238555394049", "isPositive": false },
                        { "tweetId": "904667379153727488", "isPositive": false },
@@ -264,6 +269,7 @@
                "key": "RUS",
                "tweets": {
                    "approved": [
+                       { "tweetId": "909704726823997440", "isPositive": false },
                        { "tweetId": "870638921511776260", "isPositive": true },
                        { "tweetId": "873219977494614017", "isPositive": true }
                    ]
@@ -322,7 +328,12 @@
                "key": "GRC"
             },
             {
-               "key": "URY"
+               "key": "URY",
+               "tweets": {
+                    "approved": [
+                        { "tweetId": "911198743613014016", "isPositive": true }
+                    ]
+                }
             },
             {
                "key": "BLR"
@@ -368,6 +379,7 @@
                "key": "MYS",
                "tweets": {
                     "approved": [
+                        { "tweetId": "910429473157402624", "isPositive": true },
                         { "tweetId": "906125910008631296", "isPositive": false }
                     ]
                 }
